@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Trivikrama DP - Cloud Monitoring Engineer" />
+  <img src="https://via.placeholder.com/1024x256.png?text=Trivikrama+DP+%7C+Cloud+Monitoring+Engineer" alt="Trivikrama DP - Cloud Monitoring Engineer" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Trivikrama DP</h1>
