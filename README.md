@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="Trivikrama DP - Cloud Monitoring Engineer" />
+</p>
 
-<!--
-**Trivikrama07/Trivikrama07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Trivikrama DP</h1>
+<h3 align="center">Cloud Monitoring & Cloud Engineer | AWS Certified | DevOps Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 I'm a Cloud Monitoring Engineer passionate about building scalable, reliable cloud infrastructure.  
+🛠️ Skilled in AWS, Docker, CI/CD, and tools like Grafana, Prometheus, Datadog, and Site24x7.  
+⚙️ I specialize in performance optimization, infrastructure automation, and proactive monitoring.
+
+---
+
+### 🔭 Current Focus
+- 📘 Diving deep into AWS, Azure, Kubernetes, Docker, and Cloud Networking
+- 🎯 Preparing for AWS Solution Architect and SysOps Admin Certifications
+
+---
+
+### 🛠️ Tech Stack
+- **Cloud Platforms**: AWS, Azure  
+- **Monitoring Tools**: Prometheus, Grafana, Datadog, Site24x7, New Relic 
+- **Containers**: Docker  
+- **IaC**: Terraform, Cloud Formation
+- **Version Control**: Git  
+- **CI/CD**: Jenkins, GitHub Actions  
+- **Ticketing**: Jira  
+- **OS**: Linux (RedHat, Ubuntu, CentOS), Windows, Mac
+
+---
+
+### 📚 Certifications
+- 🥇 **AWS Certified Cloud Practitioner** (2023–2026)  
+- ✅ Datadog: Introduction to Monitoring AWS  
+- ✅ Datadog: Application Performance Monitoring  
+- 📜 PGP in Cloud Computing and SysOps – NIIT
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trivikrama07&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trivikrama07&theme=dark" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trivikrama07&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Trivikrama07&theme=onedark&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/trivikramadp/)
+- 📧 Email: dptrivikrama@gmail.com
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Trivikrama07&theme=github-dark" />
+</p>
+
+---
