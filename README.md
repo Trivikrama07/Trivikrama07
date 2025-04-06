@@ -58,10 +58,15 @@
 
 ---
 
-### 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/trivikramadp/)
-- 📧 Email: dptrivikrama@gmail.com
+<h3 align="left">📫 Connect with me:</h3>
 
----
+<p align="left">
+  <a href="mailto:dptrivikrama@gmail.com" target="blank">
+    📧 dptrivikrama@gmail.com
+  </a><br>
+  <a href="https://www.linkedin.com/in/trivikramadp/" target="blank">
+    🔗 LinkedIn
+  </a>
+</p>
 
 
