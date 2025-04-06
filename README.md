@@ -49,14 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trivikrama07&layout=compact&theme=dark" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Trivikrama07&theme=onedark&margin-w=15&margin-h=15" />
-</p>
-
----
 
 <h3 align="left">📫 Connect with me:</h3>
 
